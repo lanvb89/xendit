@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="9.1268898">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.002166799">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="2.061813">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="3.834659301">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.0004469">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="1.9440594">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="4.259512099">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.0005542">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="1.583227699">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="4.0743296">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.0004537">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="1.002644">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="3.9674099">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.000647901">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="1.9439738">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="4.2175856">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.000482901">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="1.0623023">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-addition" time="4.2800105">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-addition" time="0.000440399">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-addition" time="1.1219693">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.3240863">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-subtraction" time="0.0004542">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="1.733010401">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.4737984">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-subtraction" time="0.000773801">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="2.1175643">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.0444312">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-subtraction" time="0.000456599">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="1.6990378">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.0950211">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-subtraction" time="0.0004346">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="1.5003269">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-subtraction" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-subtraction" time="4.1897259">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-subtraction" time="0.0004614">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-subtraction" time="1.4528495">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="4.3651242">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-division" time="0.0004165">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="1.4673168">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="3.9346399">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-division" time="0.0003634">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="1.6055641">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="4.012941201">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-division" time="0.0004327">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="1.699079101">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="3.902099001">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-division" time="0.000434001">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="1.236768101">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="4.1133656">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-division" time="0.0004344">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="1.200038999">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/xendit/xendit-qa-assessment/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division" time="4.1702794">
+        </testcase>
+        <testcase name="When I enter following values and press = button" classname="test-online-calculator-scenarios;test-division" time="0.0003698">
+        </testcase>
+        <testcase name="Then I should be able to see" classname="test-online-calculator-scenarios;test-division" time="1.208248399">
+        </testcase>
+    </testsuite>
+</testsuites>
